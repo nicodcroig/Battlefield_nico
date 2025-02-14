@@ -1,1 +1,5 @@
-prueba de rama_1
+<<<<<<< HEAD
+=======
+lalalaala 
+prueba y prueba 
+>>>>>>> rama_2
